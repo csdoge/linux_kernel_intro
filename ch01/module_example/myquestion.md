@@ -1,0 +1,1 @@
+I excute the process in explain.md, but why syslog first outputs "Goodbye..." and then outputs "Hello..."
