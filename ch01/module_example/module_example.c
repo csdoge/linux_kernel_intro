@@ -4,13 +4,13 @@
 
 static int __init lkp_init(void)
 {
-    printk("Hello World! from the kernel space...");
+    printk("Hello World! from the kernel space...\n");
     return 0;
 }
 
 static void __exit lkp_exit(void)
 {
-    printk("Goodbye World! leaving the kernel space...");
+    printk("Goodbye World! leaving the kernel space...\n");
 }
 
 module_init(lkp_init);
