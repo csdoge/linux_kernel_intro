@@ -1,0 +1,2 @@
+Memory Addressing: https://blog.csdn.net/gatieme/article/details/50646461<br>
+Chapter 2 of Understanding the linux kernel:https://github.com/csdoge/linux_kernel_intro/blob/master/ReferenceBooks/Linux%20Kernel%20Development%2C%203rd%20Edition.pdf<br>
