@@ -1,2 +1,4 @@
 Memory Addressing: https://blog.csdn.net/gatieme/article/details/50646461<br>
 Chapter 2 of Understanding the linux kernel: https://github.com/csdoge/linux_kernel_intro/blob/master/ReferenceBooks/Understanding%20Linux%20Kernel.pdf<br>
+i386: https://blog.csdn.net/kanghua/article/details/1872428<br>
+      https://blog.csdn.net/kanghua/article/details/1872454<br>
